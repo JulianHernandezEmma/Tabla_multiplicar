@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tabla_multiplicar/1.0.0": {
+        "runtime": {
+          "Tabla_multiplicar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tabla_multiplicar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
